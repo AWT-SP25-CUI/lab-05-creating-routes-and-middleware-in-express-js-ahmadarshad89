@@ -8,11 +8,10 @@
 Build a structured backend using Express.js with route handling, middleware, query and route parameters, and error management.
 
 ## How to Run
-```bash
 npm install
 node gradedtask1.js
 node gradedtask2.js
-```
+
 
 ## Files Description
 - `gradedtask1.js` — Middleware Logger with Custom Timestamp
