@@ -25,12 +25,12 @@ Run these commands in terminal:
 
 ### Graded Task 1 - 
 #### Code
-![Graded Task 1 Code](screenshots/gradedtask1-code.PNG)
+![Graded Task 1 Code](sreenshots/gradedtask1-code.PNG)
 #### Output
-![Graded Task 1 Output](screenshots/gradedtask1-output.PNG)
+![Graded Task 1 Output](sreenshots/gradedtask1-output.PNG)
 
 ### Graded Task 2 - 
 #### Code
-![Graded Task 2 Code](screenshots/gradedtask2-code.PNG)
+![Graded Task 2 Code](sreenshots/gradedtask2-code.PNG)
 #### Output
-![Graded Task 2 Output](screenshots/gradedtask2-output.PNG)
+![Graded Task 2 Output](sreenshots/gradedtask2-output.PNG)
