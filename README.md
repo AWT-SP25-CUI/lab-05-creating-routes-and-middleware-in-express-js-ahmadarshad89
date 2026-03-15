@@ -21,19 +21,16 @@ Run these commands in terminal:
 
 ## Graded Tasks
 
-### Graded Task 1 - Middleware Logger with Timestamp
+## Graded Tasks
 
+### Graded Task 1 - 
 #### Code
-![Task 1 Code](screenshots/gradedtask1-code.PNG)
-
+![Graded Task 1 Code](screenshots/gradedtask1-code.PNG)
 #### Output
-![Task 1 Output](screenshots/gradedtask1-output.PNG)
+![Graded Task 1 Output](screenshots/gradedtask1-output.PNG)
 
-### Graded Task 2 - Product Catalog API
-
+### Graded Task 2 - 
 #### Code
-![Task 2 Code](screenshots/gradedtask2-code.PNG)
-
-#### GET /products
-![Get All Products](screenshots/gradedtask2-output.PNG)
-````
+![Graded Task 2 Code](screenshots/gradedtask2-code.PNG)
+#### Output
+![Graded Task 2 Output](screenshots/gradedtask2-output.PNG)
