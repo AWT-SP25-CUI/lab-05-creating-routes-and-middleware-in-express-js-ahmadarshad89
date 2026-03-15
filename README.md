@@ -22,14 +22,14 @@ node gradedtask2.js
 
 ### Graded Task 1 - Middleware Logger with Timestamp
 #### Code
-![Task 1 Code](screenshots/gradedtask1-code.PNG)
+![Task 1 Code](screenshots/gradedtask1-code.png)
 #### Output
-![Task 1 Output](screenshots/gradedtask1-output.PNG)
+![Task 1 Output](screenshots/gradedtask1-output.png)
 
 ### Graded Task 2 - Product Catalog API
 #### Code
-![Task 2 Code](screenshots/gradedtask2-code.PNG)
+![Task 2 Code](screenshots/gradedtask2-code.png)
 
 #### GET /products
-![Get All Products](screenshots/gradedtask2-output.PNG)
+![Get All Products](screenshots/gradedtask2-output.png)
 
